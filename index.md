@@ -24,7 +24,7 @@ void main(){
 ```
 
 ## 章节三- 链接
-[这是我的印象笔记链接](https://app.yinxiang.com/shard/s14/nl/54293783/49b5e24e-0339-4f69-85c6-e82f19a11fd6)  
+[这是本次学习中记录的印象笔记链接](https://app.yinxiang.com/shard/s14/nl/54293783/49b5e24e-0339-4f69-85c6-e82f19a11fd6)  
 本次学习主要参考的[链接](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## 章节四- 其他使用
@@ -32,4 +32,13 @@ void main(){
    - [x] 任务1
    - [ ] 任务2
 
-2. 
+2. 可以通过将内容置于 HTML 注释中来告知 GitHub 隐藏呈现的 Markdown 中的内容。
+<!-- 这是个人记录，不作公开使用 -->
+
+3. 对列表进行排序，在每行前面加上一个数字。  
+
+4. 文字换行的三种方法:  
+在第一行末尾包含两个空格  
+在第一行末尾包含反斜杠\
+在第一行末尾包括一个 HTML 单行分隔符标记<br/>
+若没有正确使用换行符，md文件中的文字不会自动进行换行。
